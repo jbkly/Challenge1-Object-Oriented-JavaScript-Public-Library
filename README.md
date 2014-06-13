@@ -1,4 +1,4 @@
-Challenge1-Object-Oriented-JavaScript-Public-Library
+An Object-Oriented JavaScript Model of a Public Library
 ====================================================
 
 Code Fellows Code Challenge 1:
